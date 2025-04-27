@@ -162,6 +162,7 @@ int main() {
     printf("Sum of odd digits = %d\n", sum);
     return 0;
 }
+```
 
 
 ## OUTPUT:
